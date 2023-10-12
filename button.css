@@ -1,0 +1,14 @@
+.w-btn {
+    position: relative;
+    border: none;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.25s;
+}
+.w-btn-gray {
+    background-color: #a3a1a1;
+    color: #e3dede;
+}

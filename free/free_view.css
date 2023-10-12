@@ -1,0 +1,127 @@
+.view_table {
+    border: 1px solid #444444;
+    margin-top: 30px;
+}
+.view_title {
+    height: 30px;
+    text-align: center;
+    background-color: #cccccc;
+    color: white;
+    width: 1000px;
+}
+.view_id {
+    text-align: center;
+    background-color: #EEEEEE;
+    width: 30px;
+}
+.view_id2 {
+    background-color: white;
+    width: 60px;
+}
+.view_hit {
+    background-color: #EEEEEE;
+    width: 30px;
+    text-align: center;
+}
+.view_hit2 {
+    background-color: white;
+    width: 60px;
+}
+.view_th {
+    background-color: #EEEEEE;
+    width: 30px;
+    text-align: center;
+}
+.view_th2 {
+    background-color: white;
+    width: 60px;
+}
+.view_content {
+    padding-top: 20px;
+    border-top: 1px solid #444444;
+    height: 500px;
+}
+.view_btn {
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.w-btn {
+   position: relative;
+   border: none;
+   display: inline-block;
+   padding: 5px 10px;
+   border-radius: 10px;
+   text-decoration: none;
+   font-weight: 600;
+   transition: 0.25s;
+}
+.w-btn-gray {
+   background-color: #a3a1a1;
+   color: #e3dede;
+}
+
+.reply_view {
+    width:900px;
+    margin-top:100px; 
+    margin-left: 350px;
+    word-break:break-all;
+ }
+ .dap_lo {
+    font-size: 14px;
+    padding:10px 0 15px 0;
+    border-bottom: solid 1px gray;
+ }
+ .dap_to {
+    margin-top:5px;
+ }
+ .rep_me {
+    font-size:12px;
+ }
+ .rep_me ul li {
+    float:left;
+    width: 30px;
+ }
+ .dat_delete {
+    display: none;
+ }   
+ .dat_edit {
+    display:none;
+ }
+ .dap_sm {
+    position: absolute;
+    top: 10px;
+ }
+ .dap_edit_t{
+    width:520px;
+    height:70px;
+    position: absolute;
+    top: 40px;
+ }
+ .re_mo_bt {
+    position: absolute;
+    top:40px;
+    right: 5px;
+    width: 90px;
+    height: 72px;
+ }
+ #re_content {
+    width:700px;
+    height: 56px; 
+ }
+ .dap_ins {
+    margin-top:50px;
+ }
+ .re_bt {
+    position: absolute;
+    width:100px;
+    height:56px;
+    font-size:16px;
+    margin-left: 10px; 
+ }
+ #foot_box {
+    height: 50px; 
+ }

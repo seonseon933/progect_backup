@@ -1,0 +1,40 @@
+body {
+    box-sizing: border-box;
+  }
+  h1 {
+    padding: 100px 0px; 
+    background: linear-gradient(-45deg, #c0d5ff 0%, #f2bee6 100%);
+    text-align: center;
+    color: #ffffff;
+  }
+.index_wrapper{
+  position: absolute;
+  margin-top: 10%;
+  margin-left: 40%;
+  margin-right: 25%;
+}
+.index_wrapper_a{
+  margin-right: 25%;
+  position: absolute;
+  margin-top: 10%;
+  margin-left: 30%;
+}
+.index_btn {
+    padding: 10px 20px;  
+  }
+.w-btn {
+    position: relative;
+    border: none;
+    display: inline-block;
+    padding: 15px 30px;
+   border-radius: 10px;
+   /*  font-family: "paybooc-Light", sans-serif;*/
+    text-decoration: none;
+   /* font-weight: 600; */
+    transition: 0.25s;
+    margin: 10px;
+}
+.w-btn-gra1 {
+      background: linear-gradient(-45deg, #c0d5ff 0%, #f2bee6 100%);
+      color: white;
+}
